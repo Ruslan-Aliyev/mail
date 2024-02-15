@@ -15,6 +15,16 @@ The page contains a link to enable "Less secure apps" in MyAccount.
 - You can also enable "Less secure apps" (third-party mail clients) from:
 "MyAccount" > "Sign-in & security" > "Connected apps & sites" > "Allow less secure apps"
 
+**Update 2024**
+
+It was:  
+1/ Enable IMAP forwarding in Google account settings  
+2/ Allow Less Secure Apps: https://support.google.com/accounts/answer/6010255?hl=en  
+
+Now it's:  
+1/ Enable IMAP forwarding in Google account settings  
+2/ Setup 2FA and then setup an App Password: https://wpmailsmtp.com/gmail-less-secure-apps/  
+
 ### Gmail SMTP Server
 
 - Server: smtp.gmail.com
